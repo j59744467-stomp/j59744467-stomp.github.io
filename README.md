@@ -14,7 +14,7 @@ This repo hosts a minimal landing page that points readers to my Medium essay:
 - If using `index.html`, it sets a `<link rel="canonical">` to the Medium URL.
 
 ## Quick start
-1. Replace `MEDIUM_URL_HERE` in `index.md` **or** `index.html` (pick one).
+1. Replace `https://medium.com/@linkfromthefuture921/allie-oh-and-my-suicide-attempt-story-351f066ad038-351f066ad037` in `index.md` **or** `index.html` (pick one).
 2. Commit to `main` and enable **Settings → Pages → Deploy from a branch → main / (root)**.
 3. Wait ~1–2 minutes; your Pages URL will go live.
 4. Share **your Pages URL**; it forwards readers to Medium (visually or via redirect if you enable the meta refresh).
