@@ -1,4 +1,4 @@
-# Allie (Allison) Oh — Essay Landing (Medium Promo)
+# Allie Oh — Essay Landing (Medium Promo)
 
 This repo hosts a minimal landing page that points readers to my Medium essay:
 **“Allie Oh and My Suicide Attempt Story.”**
@@ -9,8 +9,7 @@ This repo hosts a minimal landing page that points readers to my Medium essay:
 > **Content Warning:** Mentions of suicidal ideation/attempt and emotional trauma.
 
 ## Why this exists
-- To rank for **Allie Oh** and **Allison Oh** queries and funnel readers to Medium.
-- The landing page includes a short excerpt (e.g., a line referencing “Harvard”) without duplicating the full text.
+
 - If using `index.html`, it sets a `<link rel="canonical">` to the Medium URL.
 
 ## Quick start
@@ -25,7 +24,7 @@ This repo hosts a minimal landing page that points readers to my Medium essay:
 - *(Optional)* `assets/preview.jpg` — social preview image you can reference in `index.html`.
 
 ## SEO notes (keep it lean)
-- Use both name variants in **title/H1/description**: “**Allie (Allison) Oh**”.
+- Use both name variants in **title/H1/description**: “**Allie Oh**”.
 - Mention **Harvard** once in a short excerpt to capture long-tail searches (e.g., “Harvard-bound”).
 - Don’t paste the full essay here (avoid duplicate content). Medium remains canonical.
 - If you hook up Google Search Console to your Pages URL, use **URL Inspection → Request Indexing**.
